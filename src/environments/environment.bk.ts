@@ -6,8 +6,8 @@ export const environment = {
   production: false,
 
   algolia: {
-    appId: 'B6KG2OKF8R',
-    apiKey: '7d72a36db2d77fb890b96d79433bdc08'
+    appId: '',
+    apiKey: ''
   }
 };
 
